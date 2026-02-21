@@ -21,7 +21,8 @@
 * [袭击塔的使用](wikis/bad.md)
 * [指令帮助](wikis/plays.md)
 * [友链相关](wikis/server.md)
-* [工单求助](https://github.com/yunshuangqwq/mccaoyuantxwiki/issues?q=is%3Aissue)
-* [如何获得游戏币](wikis/ccurrency.md)
+* [工单求助](https://github.com/yunshuangqwq/mccaoyuantxwiki/issues/new/choose)
+* [如何获得游戏币](wikis\ccurrency.md)
 * [加速GitHub](wikis/github.md)
+* [邀请奖励规则](wikis/invite.md)
 
